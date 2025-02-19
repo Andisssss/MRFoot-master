@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 11c7687792052ed40bb7cffcfe91181c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - introClip: {fileID: 8300000, guid: 3ed81d09e535ac948b278ae798f5309b, type: 3}
+  - demoClip: {fileID: 8300000, guid: da75ab52c1166f04cac2f6975d6cd749, type: 3}
+  - preparationClip: {fileID: 8300000, guid: 25315f17d21672340a43bc9ca23cac8f, type: 3}
+  - releaseLegClip: {fileID: 8300000, guid: 15795bb26c435b540aff4c508287b856, type: 3}
+  - switchLegClip: {instanceID: 0}
+  - instructionClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
